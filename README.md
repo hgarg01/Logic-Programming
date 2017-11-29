@@ -1,2 +1,1 @@
-# prolog
-The Logic Programming coursework assignment using Prolog
+## The Logic Programming coursework assignment using Prolog

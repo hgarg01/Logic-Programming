@@ -1,8 +1,6 @@
 :- module(maze,[mazeSize/2,barrier/2]).
-%defines the size of the maze
-mazeSize(5, 9).
 
-%Defines barriers at different positions
+mazeSize(5, 9).
 barrier(1, 8).
 barrier(2, 1).
 barrier(2, 2).
